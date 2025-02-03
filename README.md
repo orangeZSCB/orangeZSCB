@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋 Orange's here.
+- 😄 Pronouns: they / she / her
+- 🔭 I’m currently working on OI / Game Developing / Write some useful codes.
+- 🌱 I’m currently learning C & C++ / Python / Java / Website
+- 💬 Ask me about everything of coding! Maybe some problems I can't answer :|
+- 📫 How to reach me: [Email](mailto:orange@zsccodelnc.cn), QQ (462914673), and [more](https://orangestd.cn).
+
+![Contribution Snake]()
 
 <!--
 **orangeZSCB/orangeZSCB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
