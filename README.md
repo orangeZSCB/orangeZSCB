@@ -5,7 +5,7 @@
 - 💬 Ask me about everything of coding! Maybe some problems I can't answer :|
 - 📫 How to reach me: [Email](mailto:orange@zsccodelnc.cn), QQ (462914673), and [more](https://orangestd.cn).
 
-![Contribution Snake](https://cdn.jsdelivr.net/gh/orangeZSCB/orangeZSCB/ctbs.svg)
+![Contribution Snake](https://raw.githubusercontent.com/orangeZSCB/orangeZSCB/refs/heads/master/ctbs.svg)
 
 <!--
 **orangeZSCB/orangeZSCB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
