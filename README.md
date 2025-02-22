@@ -1,13 +1,23 @@
 ## Hi there 👋 Orange's here.
 - 😄 Pronouns: they / she / her
-- 🔭 I’m currently working on OI / Game Developing / Write some useful codes.
-- 🌱 I’m currently learning C & C++ / Python / Java / Website
+- 🔭 I’m currently working on **Olympiad in Infomatics / Game Developing / Write some maybe useful codes.**
+- 🌱 I’m currently learning **Vue / OI C++ / Unreal Engine**
 - 💬 Ask me about everything of coding! Maybe some problems I can't answer :|
 - 📫 How to reach me: [Email](mailto:orange@zsccodelnc.cn), QQ (462914673), and [more (zh)](https://orangestd.cn).
 
 [Homepage (zh)](https://orangestd.cn) · [Blog (zh)](https://blog.orangestd.cn)
 
+### Tech Stack
+
 ![Skills](https://skillicons.dev/icons?i=github,c,cpp,cs,html,js,css,cloudflare,py,md,bash,docker,git,linux,vim,vscode,vue)
+     
+I'm currently learning **Vue** for some project, I find that **Vue** is very nice, too.
+
+### Working Environment
+
+![Skills](https://skillicons.dev/icons?i=windows,arch,ubuntu)
+
+I'm using **Windows and Arch Linux** on my PC. **Ubuntu** for my server.
 
 ![Contribution Snake](https://raw.githubusercontent.com/orangeZSCB/orangeZSCB/refs/heads/master/ctbs.svg)
 
