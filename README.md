@@ -1,5 +1,5 @@
 ## Hi there 👋 Orange's here.
-- 😄 Pronouns: they / she / her
+- 😄 Pronouns: Feel free to use any. But perfer use **they / she/her / he/him** ranked.
 - 🔭 I’m currently working on **Olympiad in Infomatics / Game Developing / Write some maybe useful codes.**
 - 🌱 I’m currently learning **Vue / OI C++ / Unreal Engine**
 - 💬 Ask me about everything of coding! Maybe some problems I can't answer :|
