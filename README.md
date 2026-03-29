@@ -1,9 +1,10 @@
 ## Hi there 👋 Orange's here.
 - 😄 Pronouns: Feel free to use any. But perfer use **they / she/her / he/him** ranked.
-- 🔭 I’m currently working on **Olympiad in Infomatics / Game Developing / Write some maybe useful codes.**
+- 🔭 I’m currently working on **Game Developing / Write some maybe useful tools.**
 - 🌱 I’m currently learning **Vue / OI C++ / Unreal Engine**
 - 💬 Ask me about everything of coding! Maybe some problems I can't answer :|
 - 📫 How to reach me: [Email](mailto:orange@zsccodelnc.cn), QQ (462914673), and [more (zh)](https://orangestd.cn).
+- 🤡 What's dramatic, I'm a vibe coder.
 
 [Homepage (zh)](https://orangestd.cn) · [Blog (zh)](https://blog.orangestd.cn)
 
