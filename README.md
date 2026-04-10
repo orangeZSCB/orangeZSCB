@@ -1,8 +1,8 @@
 ## Hi there 👋 Orange's here.
 - 😄 Pronouns: Feel free to use any. But perfer use **they / she/her / he/him** ranked.
-- 🔭 I’m currently working on **Game Developing / Write some maybe useful tools.**
-- 🌱 I’m currently learning **Vue / OI C++ / Unreal Engine**
-- 💬 Ask me about everything of coding! Maybe some problems I can't answer :|
+- 🔭 I’m currently working on **Game Developing / AI Tools**
+- 🌱 I’m currently learning **Vue / Modern C++ / GDScript**
+- 💬 Ask me about everything of coding!
 - 📫 How to reach me: [Email](mailto:orange@zsccodelnc.cn), QQ (462914673), and [more (zh)](https://orangestd.cn).
 - 🤡 What's dramatic, I'm a vibe coder.
 
@@ -16,11 +16,13 @@ I'm currently learning **Vue** for some project, I find that **Vue** is very nic
 
 ### Working Environment
 
-![Skills](https://skillicons.dev/icons?i=windows,arch,ubuntu)
+![Skills](https://skillicons.dev/icons?i=arch,ubuntu)
 
-I'm using **Windows and Arch Linux** on my PC. **Ubuntu** for my server.
+I'm using **Arch Linux** on my PC. **Ubuntu** for my server. *fuck microslop btw*
 
 ![Contribution Snake](https://raw.githubusercontent.com/orangeZSCB/orangeZSCB/refs/heads/master/ctbs.svg)
+
+<!--
 
 ![orangeZSCB's GitHub stats](https://github-readme-stats.vercel.app/api?username=orangeZSCB&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only)
 
