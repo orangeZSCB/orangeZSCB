@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Vue / Modern C++ / GDScript**
 - 💬 Ask me about everything of coding!
 - 📫 How to reach me: [Email](mailto:orange@zsccodelnc.cn), QQ (462914673), and [more (zh)](https://orangestd.cn).
-- 🤡 What's dramatic, I'm a vibe coder.
+- 🤡 Proudly a vibe coder
 
 [Homepage (zh)](https://orangestd.cn) · [Blog (zh)](https://blog.orangestd.cn)
 
