@@ -11,8 +11,6 @@
 ### Tech Stack
 
 ![Skills](https://skillicons.dev/icons?i=github,c,cpp,cs,html,js,css,cloudflare,py,md,bash,docker,git,linux,vim,vscode,vue)
-     
-I'm currently learning **Vue** for some project, I find that **Vue** is very nice, too.
 
 ### Working Environment
 
