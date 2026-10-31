@@ -16,9 +16,9 @@ I'm currently learning **Vue** for some project, I find that **Vue** is very nic
 
 ### Working Environment
 
-![Skills](https://skillicons.dev/icons?i=arch,ubuntu)
+![Skills](https://skillicons.dev/icons?i=apple,arch,ubuntu)
 
-I'm using **Arch Linux** on my PC. **Ubuntu** for my server. *fuck microslop btw*
+I'm using **Mac** on my PC. **Arch Linux and Ubuntu** for my server. *fuck microslop btw*
 
 ![Contribution Snake](https://raw.githubusercontent.com/orangeZSCB/orangeZSCB/refs/heads/master/ctbs.svg)
 
